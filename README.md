@@ -26,7 +26,7 @@ feasibility of the proposed fuzzy model. Codes are available in- https://github.
 ## Citation
 If you find this repository useful in your research, please cite our paper:
 ```bibtex
-@article{hossain2024predicting,
+@article{hossain2024aggregated,
     title = {Aggregated Fuzzy Signature Structures for Multi-class Medical Diagnosis},
     author = {Md Zakir Hossain and Zi Jin and Tom Gedeon and Amrijit Biswas and Ruchira Tabassum and Fahimul Hoque Shubho and Shafin Rahman},
     Conference = {International Conference on Neural Information Processing},
