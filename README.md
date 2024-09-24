@@ -21,7 +21,7 @@ Machine (SVM) have also been executed for classification upon the identical fuzz
 model has been established in terms of resultant accuracies. Approximately 98% precision has been observed for both the KNN test and
 the training score as the maximum, while the minimum score was 22%
 using combinations of aggregation. SVM also showed a maximum accuracy of 87%. So, statistical and computational validity checks proved the
-feasibility of the proposed fuzzy model. Codes are available in- https://github.com/ZakirANU/Fuzzy4Medical
+feasibility of the proposed fuzzy model. Codes are available in- https://github.com/ZakirANU/Fuzzy-for-Medical-Diagnosis.
 
 ## Citation
 If you find this repository useful in your research, please cite our paper:
