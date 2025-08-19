@@ -1,7 +1,7 @@
 # Aggregated Fuzzy Signature Structures for Multi-class Medical Diagnosis. 
-This repository contains codes of our above titled paper, accepted at the **31st International Conference on Neural Information Processing (ICONIP2024)**. Codes are primarily developed by Zi Jin.
+This repository contains codes of our above titled paper, accepted at the **31st International Conference on Neural Information Processing (ICONIP2024)**. 
 
-Paper link: yet to be published
+Paper link: https://link.springer.com/chapter/10.1007/978-981-96-6960-8_2
 
 **Author**: Md Zakir Hossain, Zi Jin, Tom Gedeon, Amrijit Biswas, Ruchira Tabassum, Fahimul Hoque Shubho, Shafin Rahman <br>
 
