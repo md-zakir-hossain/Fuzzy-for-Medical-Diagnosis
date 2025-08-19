@@ -30,8 +30,8 @@ If you find this repository useful in your research, please cite our paper:
     title = {Aggregated Fuzzy Signature Structures for Multi-class Medical Diagnosis},
     author = {Md Zakir Hossain and Zi Jin and Tom Gedeon and Amrijit Biswas and Ruchira Tabassum and Fahimul Hoque Shubho and Shafin Rahman},
     Conference = {International Conference on Neural Information Processing},
-    year = {2024},
-    issn = {??},
-    doi = {??}
+    year = {2025},
+    pp = {16–30},
+    doi = {10.1007/978-981-96-6960-8_2}
 }
 ```
